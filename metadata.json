@@ -1,0 +1,6 @@
+{
+  "name": "İngilizce Bağlaçlar (Conjunctions) - Akıllı Tahta İnteraktif Testi",
+  "description": "İngilizce Conjunctions (Bağlaçlar) konusu için görsel destekli, akıllı tahta uyumlu, çevrimdışı çalışan ve rastgele sıralamalı interaktif test uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
